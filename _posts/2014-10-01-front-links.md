@@ -111,6 +111,7 @@ This is my (living) collection of __front-end__ links. It's not complete by all 
   - [Icomoon](http://icomoon.io/app/)
   - [Material](https://www.google.com/design/icons/)
   - [Entypo](http://entypo.com/characters/)
+  - [IconDrop](http://icondrop.io/)
 * Photos
   - [SplashBase](http://www.splashbase.co/)
   - [Stock Up](http://www.sitebuilderreport.com/stock-up)
